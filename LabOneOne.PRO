@@ -7,11 +7,11 @@ predicates
 	run
  
 clauses
-	synonym(arcane,cryptic).
-	synonym(demure,lowly).
-	synonym(wanton,lascivious).
-	synonym(inveterate,ingrained).
-	synonym(intrepid,dauntless).
+	synonym(beautiful,alluring).
+	synonym(angry,annoyed).
+	synonym(big,colossal).
+	synonym(bored,disinterested).
+	synonym(broken,busted).
 	
 	input(X) :- write("Input word:"),
 	readln(X).
